@@ -2,7 +2,7 @@
 
 Source Code: The code has been divided into four main functions namely:
 1. The environment setup consisting of an obstacle in the shape of tetrominoes.
-   <img width="407" alt="image" src="https://github.com/malaviyaneha/Path_Planning_Algorithms/assets/116248447/fbf08151-4760-4a71-924a-4593a39d2185">
+<img width="407" alt="image" src="https://github.com/malaviyaneha/Path_Planning_Algorithms/assets/116248447/fbf08151-4760-4a71-924a-4593a39d2185">
 
 3. A function for Breadth First Search was implemented. We know that it follows the queue
 algorithm. Queue follows the FIFO (First in First out) methodology.
